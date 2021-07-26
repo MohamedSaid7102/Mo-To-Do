@@ -1,14 +1,3 @@
 {
-  "todos": [
-    {
-      "id": "b53b9c37-8972-4bda-af99-6c9840cc937d",
-      "title": "fgsdfg",
-      "completed": false
-    },
-    {
-      "id": "b9fc2215-e28c-4ada-9032-d7408755e418",
-      "title": "fgsdfgsdfgdsg ",
-      "completed": true
-    }
-  ]
+  "todos": []
 }
