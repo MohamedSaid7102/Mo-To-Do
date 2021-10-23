@@ -1,9 +1,3 @@
 {
-  "todos": [
-    {
-      "id": "15d0eac2-8ebc-4e02-a9e8-415b84107bb5",
-      "title": "hello",
-      "completed": true
-    }
-  ]
+  "todos": []
 }
